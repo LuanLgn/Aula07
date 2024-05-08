@@ -1,0 +1,45 @@
+Compliance = no dá a possibilidade de participar de concorrências para entrar em empresas maiores
+Sem isso, não há chances de participar de novas oportunidades de negócio (enterprise)
+
+O compliance é uma prática empresarial que se refere ao cumprimento de leis, regulamentos, políticas internas e padrões éticos relevantes para uma organização. Consiste em garantir que a empresa e seus funcionários ajam de acordo com essas normas, reduzindo riscos legais, financeiros e reputacionais. Além disso, o compliance visa promover uma cultura de integridade e responsabilidade dentro da organização.
+
+As atividades de compliance envolvem a criação e implementação de políticas e procedimentos, treinamento de funcionários, monitoramento e auditoria para garantir a conformidade contínua. Isso pode abranger uma ampla gama de áreas, como anticorrupção, proteção de dados, saúde e segurança, meio ambiente, entre outros.
+
+Um programa eficaz de compliance pode trazer diversos benefícios para a empresa, incluindo a mitigação de riscos legais e financeiros, a melhoria da reputação da marca, o aumento da confiança dos stakeholders e a promoção de um ambiente de trabalho ético.
+
+No entanto, o compliance não é apenas uma questão de seguir regras; também envolve uma abordagem proativa para identificar e responder a riscos emergentes, bem como adaptar-se às mudanças regulatórias e às melhores práticas da indústria. Em resumo, o compliance é essencial para a sustentabilidade e o sucesso a longo prazo de qualquer organização.
+
+
+deskmanager.zoom.us/zbook/leonardo-hokumura/agenda
+
+Aqui está um resumo sucinto de cada uma das metodologias que você mencionou:
+
+1. Kanban: Uma metodologia de gestão visual originada do Sistema Toyota de Produção, focada na otimização do fluxo de trabalho. Utiliza cartões para representar tarefas e colunas para indicar os estágios do processo.
+
+2. Lean: Uma abordagem de gestão que visa maximizar o valor para o cliente, eliminando desperdícios e otimizando processos. Originou-se na Toyota e enfatiza a melhoria contínua, o respeito pelas pessoas e a resposta rápida às mudanças.
+
+3. Scrum: Um framework ágil para desenvolvimento de produtos, caracterizado por iterações curtas chamadas de sprints. Envolve papéis definidos, como o Product Owner, Scrum Master e a equipe de desenvolvimento, e cerimônias regulares, como o sprint planning, daily standups e sprint review.
+
+4. DSDM (Dynamic Systems Development Method): Uma abordagem ágil que enfatiza a entrega de valor de negócio de forma rápida e frequente. Inclui princípios como foco em produtos entregáveis, colaboração entre equipes e comunicação contínua com os stakeholders.
+
+5. Crystal XP: Uma metodologia ágil que se concentra na comunicação eficaz, melhoria contínua e entrega de software de alta qualidade. Tem diferentes variantes (por exemplo, Crystal Clear) adaptadas às necessidades específicas de cada equipe.
+
+6. FDD (Feature-Driven Development): Uma metodologia ágil que se concentra na entrega de funcionalidades específicas de maneira incremental e iterativa. Usa práticas como modelagem de domínio e inspeções de código para gerenciar o desenvolvimento.
+
+7. SAFe (Scaled Agile Framework): Um framework ágil que permite a escala de práticas ágeis em organizações maiores. Fornece orientações para coordenar várias equipes e projetos, mantendo a agilidade e a entrega de valor.
+
+8. LeSS (Large-Scale Scrum): Uma abordagem ágil que adapta os princípios do Scrum para organizações que trabalham em grande escala. Foca na simplicidade, transparência e na entrega de valor rápido, mesmo em contextos complexos.
+
+9. DAD (Disciplined Agile Delivery): Um framework ágil que integra várias abordagens, incluindo Scrum, Lean e Kanban, para fornecer orientações abrangentes para o desenvolvimento de software. É adaptável às necessidades específicas de cada organização.
+
+Cada uma dessas metodologias tem suas próprias características, princípios e práticas, e a escolha da mais adequada depende das necessidades e contexto de cada equipe ou organização.
+
+
+Large-Scale Scrum (LeSS):Uma forma de escalar o Scrum para múltiplas equipes que trabalham no mesmo produto, simplificando processos e promovendo a coordenação e colaboração entre as equipes.
+
+https://deskmanager.com.br/blog/o-que-e-kanban/
+https://deskmanager.com.br/blog/metodo-kanban/
+https://www.youtube.com/watch?v=6dq88qTnqV4
+
+brunosancar.com/teste
+
